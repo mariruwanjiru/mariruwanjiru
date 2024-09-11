@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariruwanjiru
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on any classification projects
+- 👀 I’m a Machine Learning enthusiast
+- 🌱 A Deep Learning enthusiast as well
+- 💞️ I’m looking to collaborate on any data science project
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I am a routineer
 
